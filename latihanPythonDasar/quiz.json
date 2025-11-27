@@ -1,0 +1,55 @@
+{
+    "level1":[
+        {
+            "pertanyaan":"Berapa hasil dari 2 + 2 ?",
+            "pilihanJawaban":["3","4","5","6"] ,
+            "jawabanBenar":"4"
+        },
+        {
+            "pertanyaan":"Berapa hasil dari 4 + 2 ?",
+            "pilihanJawaban":["3","4","5","6"] ,
+            "jawabanBenar":"6"
+        },
+        {
+            "pertanyaan":"Berapa hasil dari 1 + 2 ?",
+            "pilihanJawaban":["3","4","5","6"] ,
+            "jawabanBenar":"3"
+        }
+    ],
+
+    "level2":[
+        {
+            "pertanyaan":"Berapa hasil dari 12 + 22 ?",
+            "pilihanJawaban":["34","35","36","37"] ,
+            "jawabanBenar":"34"
+        },
+        {
+            "pertanyaan":"Berapa hasil dari 14 + 25 ?",
+            "pilihanJawaban":["38","39","40","41"] ,
+            "jawabanBenar":"39"
+        },
+        {
+            "pertanyaan":"Berapa hasil dari 11 + 23 ?",
+            "pilihanJawaban":["33","34","35","36"] ,
+            "jawabanBenar":"34"
+        }
+    ],
+
+    "level3":[
+        {
+            "pertanyaan":"Berapa hasil dari 112 + 222 ?",
+            "pilihanJawaban":["334","335","336","337"] ,
+            "jawabanBenar":"334"
+        },
+        {
+            "pertanyaan":"Berapa hasil dari 114 + 225 ?",
+            "pilihanJawaban":["338","339","340","341"] ,
+            "jawabanBenar":"339"
+        },
+        {
+            "pertanyaan":"Berapa hasil dari 111 + 223 ?",
+            "pilihanJawaban":["333","334","335","336"] ,
+            "jawabanBenar":"334"
+        }
+    ]   
+}
